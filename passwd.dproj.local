@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/03 13:00:00.000.196,=C:\Users\B12\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/10 11:00:00.000.831,=C:\Users\B12\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/10 11:00:00.000.802,C:\Users\B12\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Passwd\main.pas</Transaction>
+    <Transaction>2016/11/10 11:00:00.000.803,C:\Users\B12\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Passwd\main.dfm</Transaction>
+    <Transaction>2016/11/10 11:00:00.000.301,C:\Users\B12\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Passwd\passwd.dproj</Transaction>
+    <Transaction>2016/11/10 12:00:00.000.248,=E:\Passwd\ABOUT.pas</Transaction>
+    <Transaction>2016/11/10 12:00:00.000.196,=E:\Passwd\PassWord.pas</Transaction>
+    <Transaction>2017/12/13 21:00:00.000.072,=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 21:00:00.000.906,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uKaset.pas=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 21:00:00.000.906,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uKaset.dfm=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.dfm</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.673,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.dfm=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uPenyewa.dfm</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.673,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uPenyewa.pas</Transaction>
+    <Transaction>2017/12/14 09:00:00.000.483,=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.292,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.dfm=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uPetugas.dfm</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.292,D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\uPetugas.pas</Transaction>
+    <Transaction>2017/12/14 10:00:00.000.031,=D:\S.KOM\SEMESTER V\PENGEMBANGAN APLIKASI BASIS DATA\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 21:00:00.000.773,C:\Users\user only\Videos\Passwd\uSewa.pas=C:\Users\user only\Videos\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 21:00:00.000.153,=C:\Users\user only\Videos\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/14 21:00:00.000.773,C:\Users\user only\Videos\Passwd\uSewa.dfm=C:\Users\user only\Videos\Passwd\Unit1.dfm</Transaction>
+    <Transaction>2017/12/15 01:00:00.000.207,C:\Users\user only\Videos\Passwd\Unit1.pas=C:\Users\user only\Videos\Passwd\uKembali.pas</Transaction>
+    <Transaction>2017/12/15 01:00:00.000.322,=C:\Users\user only\Videos\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/15 01:00:00.000.207,C:\Users\user only\Videos\Passwd\Unit1.dfm=C:\Users\user only\Videos\Passwd\uKembali.dfm</Transaction>
+    <Transaction>2017/12/19 23:00:00.000.292,=C:\Users\user only\Videos\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/19 23:00:00.000.414,C:\Users\user only\Videos\Passwd\uLapJual.pas=C:\Users\user only\Videos\Passwd\Unit1.pas</Transaction>
+    <Transaction>2017/12/19 23:00:00.000.414,C:\Users\user only\Videos\Passwd\uLapJual.dfm=C:\Users\user only\Videos\Passwd\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
